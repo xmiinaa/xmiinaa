@@ -1,3 +1,3 @@
 # Hello!
 
-I am Amina, a student trying to figure her way in life :/
+I am Amina, a second year Computer Science student at University. 
